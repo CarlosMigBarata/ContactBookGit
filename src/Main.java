@@ -6,13 +6,13 @@ import java.util.Scanner;
 
 public class Main {
     //Constantes que definem os comandos
-    public static final String ADD_CONTACT    = "AC";
-    public static final String REMOVE_CONTACT = "RC";
-    public static final String GET_PHONE      = "GP";
-    public static final String GET_EMAIL      = "GE";
-    public static final String SET_PHONE      = "SP";
-    public static final String SET_EMAIL      = "SE";
-    public static final String LIST_CONTACTS  = "LC";
+    public static final String ADD_CONTACT    = "AC"; //1
+    public static final String REMOVE_CONTACT = "RC"; //7
+    public static final String GET_PHONE      = "GP"; //3
+    public static final String GET_EMAIL      = "GE"; //4
+    public static final String SET_PHONE      = "SP"; //5
+    public static final String SET_EMAIL      = "SE"; //6
+    public static final String LIST_CONTACTS  = "LC"; //2
     public static final String QUIT           = "Q";
 
     //Constantes que definem as mensagens para o utilizador
